@@ -21,7 +21,7 @@ class Arbre:
         return self.name
 
 
-class Noeud():
+class Noeud:
 
     def __init__(self, abre, name, pere, value):
         self.list = list
