@@ -1,2 +1,2 @@
-# NSI-ArbrePy
-ArbrePy est une librairie Python pour la spécialité NSI qui concerne la notion d'arbres
+# ArbrePy
+ArbrePy est une librairy Python qui concerne la notion d'arbres
