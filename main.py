@@ -25,6 +25,7 @@ class Arbre:
         return self.name
 
     def draw(self):
+        print("Work in progress")
         
 
 
@@ -70,7 +71,3 @@ class Noeud:
     def getArbre(self):
         return self.arbre
 
-
-list = [0, 1, 2, 3, 4, 5]
-arbre = Arbre("Salut", list)
-arbre.draw()
